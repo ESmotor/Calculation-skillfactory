@@ -8,7 +8,8 @@ public class Main {
         Operand operand = new Operand();
         Operations operation = new Operations();
 
-
+// dobsvili chtoto novoe
+        /* ldjsflkjsdlkfjsdlkfjlskdjflksdf*/
 
         while (true) {
             // Проверяем условие, нужно ли вводить заново первый операнд или нет, если да, то вводим
